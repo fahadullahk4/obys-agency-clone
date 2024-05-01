@@ -35,7 +35,6 @@ body {
 
 body {
     overflow-x: hidden;
-    cursor: none;
 }
 
 .mousefollower {
@@ -828,9 +827,6 @@ body {
 
 @media (max-width:600px) {
 
-    body {
-    cursor: default;
-    }
     #loader {
         height: 100%;
         width: 100%;
