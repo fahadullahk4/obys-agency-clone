@@ -45,7 +45,7 @@ function loadingAnimation() {
 				} else {
 					h5timer.innerHTML = grow;
 				}
-			}, 5);
+			}, 20);
 		},
 	});
 	tl.to(".line h2", {
